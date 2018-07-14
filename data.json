@@ -1,0 +1,50 @@
+{
+  "basics":{
+    "name":"MONI CHINNU",
+  "email":"monicachinna@gmail.com",
+   "phn no" :"9876768691"
+ },
+ "career":{
+   "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+ },
+ "education":[
+   {
+     "Degree":"B.Tech(CSE)",
+     "Institute":"AVANTHI",
+     "Data":["2015-19","71%"]
+   },
+   {
+     "Degree":"Intermediate",
+     "Institute":"Sri Chaitanya",
+     "Data":["2013-15","85%"]
+   },
+   {
+     "Degree":"SSC",
+     "Institute":"Keshava Reddy Concept School",
+     "Data":["2013","9.5"]
+
+   }
+ ],
+ "skills":[
+   {
+     "titles":"programming languages",
+     "info":["c","c++","Java","python"]
+   },
+   {
+     "titles":"data bases",
+     "info":["mongodb","mySQL","Oracle"]
+   },
+   {
+     "titles":"web technologies",
+     "info":["HTML5","CSS3","JavaScript"]
+   },
+   {
+     "titles":"libraries and Frameworks",
+     "info":["ionic","Angular","expressjs",".net"]
+   },
+   {
+     "titles":"Operating Systems",
+     "info":["Linux","Windows","Dos"]
+   }
+ ]
+}
